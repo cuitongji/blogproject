@@ -1,2 +1,1 @@
-某人的第一个blog项目，我将来一定要将其不熟到服务器上去
-看样子还要改一次
+this is my first blogproject, and then i will create a lot of projects. you are wait!
